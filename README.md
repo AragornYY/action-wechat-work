@@ -1,5 +1,7 @@
 # WeChat Work for GitHub Actions
 
+Caveat: This is a fork of chf007/action-wechat-work. Please use the original one if its maintenance resumes.
+
 通过企业微信机器人发送消息。
 
 ![WeChat Work Logo](./docs/wechat-work-logo.png "WeChat Work Logo")

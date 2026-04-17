@@ -1,6 +1,6 @@
 # WeChat Work for GitHub Actions
 
-Caveat: This is a fork of chf007/action-wechat-work. Please use the original one if its maintenance resumes.
+Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketplace/actions/github-action-for-wechat-work). Please use the original one if its maintenance resumes.
 
 通过企业微信机器人发送消息。
 

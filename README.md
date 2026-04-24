@@ -16,7 +16,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by text
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -39,7 +39,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by markdown
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -61,7 +61,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by image
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -82,7 +82,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by news
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -104,7 +104,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by file
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -123,7 +123,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by template_card.text_notice
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
@@ -142,7 +142,7 @@ Caveat: This is a fork of [chf007/action-wechat-work](https://github.com/marketp
 
 ```yaml
 - name: WeChat Work notification by template_card.news_notice
-  uses: aragorn-yang/action-wechat-work@master
+  uses: AragornYY/action-wechat-work@master
   env:
     WECHAT_WORK_BOT_WEBHOOK: ${{secrets.WECHAT_WORK_BOT_WEBHOOK}}
   with:
